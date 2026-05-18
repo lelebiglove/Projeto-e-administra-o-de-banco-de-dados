@@ -1,4 +1,5 @@
-# Tarefa - MongoDB
+Error loading page
+An unexpected error occured. Try reloading the page.# Tarefa - MongoDB
 
 **Nome:**le Andro Isaac Correia de Brito  
 **Matrícula:** 20240028406  
@@ -6,12 +7,9 @@
 
 ## Links
 
-## Links
-
-- [Programa CRUD (app.py)](../../../app.py)
-- [Script de inicialização do MongoDB](scripts/init-mongo.js)
-- [Docker Compose](scripts/docker-compose-mongo.yml)
----
+- [Programa CRUD (app.py)](https://github.com/lelebiglove/Projeto-e-administra-o-de-banco-de-dados/blob/main/app.py)
+- [Script de inicialização do MongoDB](https://github.com/lelebiglove/Projeto-e-administra-o-de-banco-de-dados/blob/main/scripts/init-mongo.js)
+- [Docker Compose](https://github.com/lelebiglove/Projeto-e-administra-o-de-banco-de-dados/blob/main/scripts/docker-compose-mongo.yml)
 
 ## Resumo sobre MongoDB
 ### O que é MongoDB?
